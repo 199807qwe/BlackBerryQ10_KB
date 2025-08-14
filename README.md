@@ -1,0 +1,1 @@
+# BlackBerryQ10_KB
