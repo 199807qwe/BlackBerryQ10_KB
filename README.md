@@ -43,6 +43,9 @@ Zitao использовал в своих клавиатурах печатны
 |Row 6         |002         |
 |Row 7         |113         |
 
+<img width="2457" height="1450" alt="image" src="https://github.com/user-attachments/assets/22fda8e5-68a8-4702-b659-0b152dac3561" />
+
+
 Дальше раздел с экспериментами, в будущем будет исправлено.
 Припаяли? Приклейте nrf52840 к детали Q10V_keyboard_support_new.stl так, что бы соответствовало отверстию для порта typec
 
